@@ -1,0 +1,1 @@
+export { useFetchCoins } from "./useCoinsData";
